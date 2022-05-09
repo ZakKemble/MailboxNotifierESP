@@ -1,0 +1,35 @@
+{
+	"key": "aaaaaabbbbbccccc22222444444aaaffffff7777",
+	"millis": 11418,
+	"notify": "mail",
+	"battery": 3900,
+	"lastfail": 0,
+	"fw": {
+		"version": "1.0.0 210927",
+		"build": "Oct 19 2021 00:49:08"
+	},
+	"counts": {
+		"success": 4,
+		"wififail": 0,
+		"netfail": 3
+	},
+	"net": {
+		"ip": "10.0.0.84",
+		"subnet": "255.255.255.0",
+		"gateway": "10.0.0.1",
+		"dns1": "10.0.0.1",
+		"dns2": "(IP unset)",
+		"hostname": "ESP-334455"
+	},
+	"wifi": {
+		"ssid": "ABC123",
+		"bssid": "AA:BB:CC:DD:EE:FF",
+		"channel": 1,
+		"mac": "00:11:22:33:44:55",
+		"rssi": -56
+	},
+	"env": {
+		"t": 21.55,
+		"h": 48.23
+	}
+}
